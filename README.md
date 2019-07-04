@@ -9,3 +9,5 @@ install:
 curl https://get.pimoroni.com/blinkt | bash
 
 sample files are at ~/Pimoroni/blinkt/examples
+
+* cpu_load.py => added colors depending on cpu load
